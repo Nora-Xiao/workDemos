@@ -8,3 +8,6 @@ https://github.com/xiaoyixu-1664940/puzzle-game
 
 A static web page I developed showing HTML and CSS: 
 https://github.com/xiaoyixu-1664940/writing-readable-code
+
+the web page for ASCII animation (HTML, CSS, Javascript):
+https://github.com/xiaoyixu-1664940/asciimation
