@@ -3,6 +3,9 @@ the videos and pictures showing my full stack experience at Siemens internship a
 
 Below are the repositories storing my codes:
 
+flight ticket booking application (Java and SQL):
+https://github.com/xiaoyixu-1664940/flight-ticket-booking
+
 chess-bots, written in Java:
 https://github.com/xiaoyixu-1664940/chess-bots
 
