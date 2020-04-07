@@ -2,6 +2,7 @@
 the videos and pictures showing my full stack experience at Siemens internship and other projects
 
 Below are the repositories storing my codes:
+
 Json File Management System (HTML, CSS, React, Node.js, SQLite):
 https://github.com/Nora-Xiao/contentManagementSystem
 
